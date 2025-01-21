@@ -5,8 +5,7 @@ name: 01 Basic Docker Build
 on:
   push:
     branches:
-      - main
-      - test-actions
+      - all
   pull_request:
 
 jobs:
