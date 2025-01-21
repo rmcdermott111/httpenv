@@ -1,6 +1,5 @@
 ---
-name: 01 Basic Docker Build
-# simplest workflow possible
+name: 03 Build with Multi-Platform
 
 on:
   push:
